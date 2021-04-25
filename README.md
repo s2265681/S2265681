@@ -1,5 +1,9 @@
 ## 我是 rockShang
 
+<p align="center">
+  <img src="https://github.com/JasonkayZK/jasonkayzk/blob/master/hello-world.gif" width="30%">
+</p>
+
 - 😋 前端开发攻城狮
 - 💬 微信：wei18733505036
 - Blog： https://s2265681.github.io/
