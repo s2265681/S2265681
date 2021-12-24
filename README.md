@@ -5,7 +5,7 @@
 - [`CSDN`](https://blog.csdn.net/weixin_44160385)、[`掘金`](https://juejin.cn/user/2277843825341527/posts)
 - [`Rock-ui`](https://s2265681.github.io/rockui/storybook-static/?path=/story/*)
 - [`Rock-ui-pro`](https://s2265681.github.io/rockui-pro/build/#/)
-- [`canvas-time-count`](https://s2265681.github.io/time-count/main/index.html)
+- [`canvas-time-count`](https://s2265681.github.io/time-count/index.html)
 
 ## 汇总 ✨
 
